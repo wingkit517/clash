@@ -1,11 +1,13 @@
 
 DOMAIN-SUFFIX,pbc.gov.cn
+# 工商银行
 DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN-SUFFIX,icbc.com
 # 农业银行
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.com.cn
 DOMAIN-SUFFIX,fintechabchina.com
+# 中国银行
 DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,bankofchina.com
 DOMAIN-SUFFIX,ccb.com
@@ -43,3 +45,6 @@ DOMAIN-SUFFIX,bankofhebei.com.cn
 DOMAIN-SUFFIX,baoshangbank.com
 DOMAIN-SUFFIX,sdb.com.cn
 DOMAIN-SUFFIX,twbank.com.cn
+
+# 用于直连访问海外银行
+DOMAIN-SUFFIX,hsbc.com.hk
